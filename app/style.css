@@ -1,0 +1,11 @@
+header{
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+    height: 10vh;
+    background-color: antiquewhite;
+    border: blue 1px solid;
+    padding-top: 10px;
+
+
+}
